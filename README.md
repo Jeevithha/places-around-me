@@ -9,6 +9,7 @@ Write your own steps here.
 ### Step 2:
 
 ## Code:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -185,9 +186,10 @@ The uses of Washerman's Lake in Ariyalur District are
 </p>
 </body>
 </html>
+```
 ## Output:
 
-![image](https://github.com/Jeevithha/places-around-me/assets/123623197/85d0ee85-be7f-40c4-b4c1-9c13bae5bd11)
+![image](https://github.com/Jeevithha/places-around-me/assets/123623197/b8ea2cac-18c7-4862-8d27-8989e892007e)
 
 ![image](https://github.com/Jeevithha/places-around-me/assets/123623197/62d9bab5-6030-4c79-ac5a-3a2ecfa2fcae)
 
