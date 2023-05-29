@@ -18,7 +18,7 @@ Give the correct input
 <font color="red"><b>Ariyalur - Cement City</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>JEEVITHA S(212222100016)</b></font>
+<font color="blue"><b> JEEVITHA S (212222100016)</b></font>
 </h3>
 <center>
 <img src="/static/images/map2.png" usemap="#MyCity" height="420" width="1100">
