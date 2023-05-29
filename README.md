@@ -187,21 +187,21 @@ The uses of Washerman's Lake in Ariyalur District are
  ```
 ## Output:
 
-![image](https://github.com/Jeevithha/places-around-me/assets/123623197/85d0ee85-be7f-40c4-b4c1-9c13bae5bd11)
+![image](https://github.com/Jeevithha/places-around-me/assets/123623197/f292703e-83e9-4130-ab7f-cdbc052b0f86)
 
-![image](https://github.com/Jeevithha/places-around-me/assets/123623197/62d9bab5-6030-4c79-ac5a-3a2ecfa2fcae)
+![image](https://github.com/Jeevithha/places-around-me/assets/123623197/60d370c9-3580-432d-bd19-0d7a290958eb)
 
-![image](https://github.com/Jeevithha/places-around-me/assets/123623197/2c8d949e-dde3-415f-beb3-0b44c420a4b1)
+![image](https://github.com/Jeevithha/places-around-me/assets/123623197/b91a9407-3264-4b21-9fad-021ed21049f9)
 
-![image](https://github.com/Jeevithha/places-around-me/assets/123623197/677e7e9b-ed12-4d11-b442-f31b041bdcf6)
+![image](https://github.com/Jeevithha/places-around-me/assets/123623197/15225e09-fd50-49d2-bf2e-df1515ba9e46)
 
-![image](https://github.com/Jeevithha/places-around-me/assets/123623197/e5bec176-4795-4646-b2e8-fc1c7cae8804)
+![image](https://github.com/Jeevithha/places-around-me/assets/123623197/e976be5e-6337-4b1a-8dc5-f2aebc7abc04)
 
-![image](https://github.com/Jeevithha/places-around-me/assets/123623197/95a96852-f80a-4756-8da2-af8418cfeecb)
+![image](https://github.com/Jeevithha/places-around-me/assets/123623197/953a8ad9-1fee-4bf4-8ad7-592f57aa3e47)
 
 ## server output:
 
-![image](https://github.com/Jeevithha/places-around-me/assets/123623197/07b51a54-0ac5-4bd2-bd0f-d152970ea2c6)
+![image](https://github.com/Jeevithha/places-around-me/assets/123623197/44335da2-7628-4713-a068-8b2ba2e4a1ec)
 
 ## Result:
 The places around my native is executed successfully.
